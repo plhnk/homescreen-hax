@@ -1,5 +1,5 @@
 # homescreen-hax
-### For sxy homescreens to impress all the ladies (:peach:) without jailbreaking your iPhone! :no_good:
+### For sxy homescreens to impress all the ladies without jailbreaking your iPhone! :no_good:
 
 ***
 
