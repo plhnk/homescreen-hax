@@ -9,14 +9,13 @@ Inspired by [this post](https://david-smith.org/blog/2014/10/15/blank-icon-slots
 
 *There are two (well...probably more but yeah) ways to do this. I used [GitHub Pages](https://help.github.com/articles/what-is-github-pages/), but you could just as easily use your own website...but I'm using Pages because not everyone has their own website. And Pages is pretty well documented so anybody should be able to do it!* 	
 
-Fairly Straightforward–if you didn't read David Smith's blog post, what we're basically doing is making homescreen icons that math seamlessly blend into your wallpaper, creating the _illusion_ (trick) that your apps, etc are placed in different spots than the default grid. 
+Fairly Straightforward–if you didn't read David Smith's blog post, what we're basically doing is making homescreen icons that seamlessly blend into your wallpaper, creating the _illusion_ (trick) that your apps, etc are placed in different spots than the default grid. 
 
 This is desirable for [at least] two reasons: 
 1. Less stretching for your thumb
-2. More attractive home screens
+2. Intentionally designed home screens
 
-
-##How To:
+## How To:
 1. [Fork this repo](https://github.com/plhnk/homescreen-hax/#fork-destination-box) 
 2. Download the [Sketch template](../assets/template.sketch) and add your wallpaper as indicated in the layer labels
 2. Export the wallpaper and homescreen icons (@1x and @3x)
