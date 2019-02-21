@@ -3,7 +3,8 @@
 
 ***
 
-Inspired by [this post](https://david-smith.org/blog/2014/10/15/blank-icon-slots/).
++Important+ 
+Read [this post](https://david-smith.org/blog/2014/10/15/blank-icon-slots/) first to understand how to make this work!
 
 ***
 
@@ -17,7 +18,7 @@ This is desirable for [at least] two reasons:
 
 ## How To:
 1. [Fork this repo](https://github.com/plhnk/homescreen-hax/#fork-destination-box) 
-2. Download the [Sketch template](../assets/template.sketch) and add your wallpaper as indicated in the layer labels
+2. Download the [Sketch template](../assets/template.sketch) or duplicate [this Figma file](https://www.figma.com/file/KVAjDBHLT6rv2mosRkjSiRBw/homescreen-hax?node-id=0%3A205) and add your wallpaper as indicated in the layer labels
 2. Export the wallpaper and homescreen icons (@1x and @3x)
 3. Add the thumbnails to the [tiles](../docs/tiles/) folder
 4. [Configure GitHub pages](https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/) for this repo 
